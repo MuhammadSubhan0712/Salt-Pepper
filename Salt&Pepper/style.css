@@ -1,0 +1,107 @@
+:root {
+  --red: #f42625;
+  --white: #ffffff;
+  --black: #000000;
+}
+#navbar-items {
+  gap: 30px;
+}
+#navbar {
+  padding: 10px 10px;
+}
+#main-logo {
+  width: 165px;
+}
+.nav-links {
+  text-decoration: none;
+}
+#order-btn {
+  padding: 10px 10px;
+  color: #ffffff;
+  background-color: #eb0a0a;
+  border: none;
+  width: 170px;
+  padding: 18px;
+}
+#order-icon {
+  padding: 10px 10px;
+  color: #eb0a0a;
+  background-color: #ffffff;
+  border-radius: 20px;
+  margin-left: 5px;
+}
+#fran-btn {
+  background-color: transparent;
+  cursor: pointer;
+  padding: 15px 15px;
+  border: 2px solid white;
+}
+#logo {
+  margin-left: 150px;
+}
+#nav {
+  margin-right: 150px;
+}
+#img {
+  width: 100%;
+}
+.center {
+  text-align: center;
+}
+.margin-b {
+  margin-bottom: 32px;
+}
+.text-grey {
+  color: gray;
+}
+#children-img {
+  gap: 30px;
+}
+#red {
+  color: #eb0a0a;
+}
+#direction-btn {
+  background-color: transparent;
+  cursor: pointer;
+  padding: 10px 10px;
+  border: 2px solid white;
+  color: #ffffff;
+}
+.card p {
+  padding-bottom: 10px;
+}
+.icons {
+  padding-right: 10px;
+}
+#card {
+  letter-spacing: 5px;
+  word-spacing: 5px;
+ background-color: #a7a7a79c;
+  line-height: 30px;
+}
+.gap {
+  gap: 40px;
+}
+#images {
+  width: 265px;
+}
+#footer-img {
+  width: 120px;
+}
+#footer-p {
+  width: 350px;
+}
+#line-height {
+  line-height: 30px;
+}
+#footer-icons {
+  font-size: xx-large;
+  margin-right: 5px;
+  padding-top: 10px;
+  padding-bottom: 15px;
+  text-align: center;
+}
+#input-fr{
+width: 550px;
+padding: 15px;
+}
